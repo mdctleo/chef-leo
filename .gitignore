@@ -1,0 +1,8 @@
+.idea/
+.ricecookerfilecache/
+__pycache__/
+**.iml
+logs/
+chefdata/
+restore/
+storage
